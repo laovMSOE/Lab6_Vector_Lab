@@ -1,4 +1,4 @@
-struct vector
+struct vect
 {
     char name[10];
     float x;
